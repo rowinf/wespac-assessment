@@ -1,3 +1,12 @@
+# Wespac assessment
+
+This was done with react router. CSS from classless.css
+
+Start the mock backend with `node start:server`
+
+Start the UI with `npm run dev`
+
+
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.

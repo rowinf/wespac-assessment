@@ -46,7 +46,6 @@ export default () => {
             prevErrors.delete(key);
             return new Map(prevErrors);
         })
-        else setErrors(prevErrors => new Map(prevErrors).set(key, message))
     }
     return (
         <div className="card">
